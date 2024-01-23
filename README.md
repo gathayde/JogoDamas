@@ -2,7 +2,7 @@
 
 Projeto do jogo Damas feito em Java.
 
-Projeto ainda em construção...
+Ainda em construção...
 
 # Regras
 
